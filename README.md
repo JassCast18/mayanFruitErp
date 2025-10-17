@@ -1,2 +1,2 @@
 # mayanFruitErp
-sistema prototpo para cumplir el análisis de un sistema a trabajar
+sistema prototipo para cumplir el análisis de un sistema a trabajar
